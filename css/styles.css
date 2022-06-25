@@ -12,6 +12,11 @@ body {
   }
 }
 
-.title{
+.title {
   text-align: center;
+}
+
+.imageSize {
+  max-width: 100%;
+  height: auto;
 }
